@@ -6,8 +6,9 @@ This repository is dedicated to storing and managing files and labs/assignments 
 
 ## 📁 Repository Structure
 
-- **Assignments/**: Holds completed assignments and related documentation.
-- **Notes/**: A collection of notes and reference materials.
+- **Assignments/**: A collection of completed assignments and related documentation.
+- **Notes/**: A collection of notes and lecture materials.
+- **References/**: A collection of reference materials.
 
 ## 📝 Note
 
