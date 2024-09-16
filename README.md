@@ -9,6 +9,7 @@ This repository is dedicated to storing and managing files and labs/assignments 
 - **Assignments/**: A collection of completed assignments and related documentation.
 - **Notes/**: A collection of notes and lecture materials.
 - **References/**: A collection of reference materials.
+- **Course Handout/**: Course and curriculum related information.
 
 ## 📝 Note
 
