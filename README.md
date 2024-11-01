@@ -28,3 +28,4 @@ For any questions or if you need assistance, feel free to reach out to me:
 
 - **Email:** [harshgajjar2812@gmail.com](mailto:harshgajjar2812@gmail.com)
 - **LinkedIn:** [Harsh Gajjar](https://www.linkedin.com/in/harsh-gajjar-936536209)
+- **X:** [@harshgajjar_28](https://x.com/harshgajjar_28)
